@@ -4,14 +4,12 @@ This is a simple **CRUD (Create, Read, Update, Delete) REST API** built using **
 
 ## ✨ Features
 
-- 🔹 **Create** - Add new data to the database
-- 🔹 **Read** - Fetch and display data dynamically
-- 🔹 **Update** - Modify existing data
-- 🔹 **Delete** - Remove data permanently
-- 🔹 **User-friendly UI** with CSS & JavaScript  
-- 🔹 **EJS Templating Engine** for dynamic page rendering  
-
----
+🔹 **Create** - Add new data to the database
+🔹 **Read** - Fetch and display data dynamically
+🔹 **Update** - Modify existing data
+🔹 **Delete** - Remove data permanently
+🔹 **User-friendly UI** with CSS & JavaScript  
+🔹 **EJS Templating Engine** for dynamic page rendering  
 
 ## 🚀 Tech Stack
 
